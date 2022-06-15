@@ -7,7 +7,10 @@ export default function Home() {
         <title>Thread Affair</title>
       </Head>
 
-      <header className="header">hello</header>
+      <header className="header">hello
+        <img src="/images/logo.jpg" alt=""></img>
+        <i className="fa-solid fa-phone"></i>
+      </header>
 
       <main className="content"></main>
 
