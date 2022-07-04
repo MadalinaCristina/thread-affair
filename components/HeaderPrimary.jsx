@@ -19,6 +19,22 @@ export default function HeaderPrimary () {
           <a href="https://x.ro" title="Accesorii">Accesorii</a>
         </li>
       </ul>
+
+      <section className="nav-primary-button px-2">
+        <ul>
+          <li>
+            <section className="nav-primary-button">
+              <span className="animated-button">
+                <div className="customize-button">
+                  <i className="fa-solid fa-sliders"></i>
+
+                  <span className="label">Customize your suit</span>
+                </div>
+              </span>
+            </section>
+          </li>
+        </ul>
+      </section>
     </nav>
 
     <nav className="nav-secondary">
